@@ -13,7 +13,7 @@ var randoms = {
 	init: function() {
 
 		var rand = randoms.get_random(randoms.ads_weight);
-		document.write(randoms.ads_codes[rand]);
+		eval(randoms.ads_codes[rand]);
 
 	}
 }
